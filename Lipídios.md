@@ -1,4 +1,4 @@
-### **Lipídios**
+### Lipídios
 
 Os lipídios são fontes mais concentradas de energia, apresentando praticamente o dobro de calorias em relação aos alimentos ricos em carboidratos.
 
@@ -19,6 +19,6 @@ Além de fornecerem energia, os lipídios são necessários na formação de hor
 - manteiga
 - creme de leite
 
-Os lipídios devem ser consumidos com moderação, uma vez que a ingestão excessiva desses alimentos pode ser um fator de risco para doenças como [obesidade](https://minutosaudavel.com.br/obesidade/) e doenças cardíacas.
+Os lipídios devem ser consumidos com moderação, uma vez que a ingestão excessiva desses alimentos pode ser um fator de risco para doenças como obesidade e doenças cardíacas.
 
 > Mas o equilíbrio é fundamental, pois alguns alimentos deste grupo também são essenciais para o bom funcionamento do organismo

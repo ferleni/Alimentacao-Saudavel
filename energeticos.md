@@ -14,7 +14,7 @@ Os **alimentos energéticos** são predominantemente formados por carboidratos e
 
 Os carboidratos são os energéticos mais conhecidos e estão em quase todos os tipos de alimentos, mas só são considerados parte da categoria aqueles que possuem forte concentração de carboidrato. É o caso dos cereais, tubérculos e raízes e seus derivados.
 
-<u>São</u> <u>alimentos</u> <u>fontes de carboidratos:</u>
+São alimentos fontes de carboidratos
 
 - cana-de-açúcar
 - arroz
